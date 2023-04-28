@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ilp/static/css/main.f6b3ada3.css",
+    "main.js": "/ilp/static/js/main.c5ede7da.js",
+    "static/media/img2.png": "/ilp/static/media/img2.e8830c3ed239bce3be2a.png",
+    "static/media/img.png": "/ilp/static/media/img.182f7c8a2f98fd92412f.png",
+    "static/media/store.png": "/ilp/static/media/store.e024eb2439e0956610c2.png",
+    "index.html": "/ilp/index.html",
+    "main.f6b3ada3.css.map": "/ilp/static/css/main.f6b3ada3.css.map",
+    "main.c5ede7da.js.map": "/ilp/static/js/main.c5ede7da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6b3ada3.css",
+    "static/js/main.c5ede7da.js"
+  ]
+}
